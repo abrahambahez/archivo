@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "textFontFamily": "iA Writer Duo V",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "header-graph"
+  ],
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "theme": "obsidian"
+}

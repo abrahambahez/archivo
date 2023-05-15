@@ -1,0 +1,288 @@
+{
+  "settings_version": "0.17.0",
+  "debug": false,
+  "obsidian_command_palette_prefix": "Execute: ",
+  "preview_variables_in_command_palette": true,
+  "show_autocomplete_menu": true,
+  "working_directory": "",
+  "default_shells": {},
+  "environment_variable_path_augmentations": {},
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "execution_notification_mode": "disabled",
+  "output_channel_clipboard_also_outputs_to_notification": true,
+  "enable_events": true,
+  "approve_modals_by_pressing_enter_key": true,
+  "max_visible_lines_in_shell_command_fields": false,
+  "shell_commands": [
+    {
+      "id": "3o62zqemjb",
+      "platform_specific_commands": {
+        "default": "sort -o {{file_path:relative}} {{file_path:relative}}"
+      },
+      "shells": {},
+      "alias": "sort | ordenar",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "ekr8x3s8f8",
+      "platform_specific_commands": {
+        "default": "cd notas && git pull && git push -u origin main"
+      },
+      "shells": {},
+      "alias": "Push",
+      "icon": "upload-cloud",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": false,
+          "prompt_id": "fwwm7jh2gk"
+        }
+      ],
+      "variable_default_values": {}
+    },
+    {
+      "id": "os6kzuyk7a",
+      "platform_specific_commands": {
+        "default": "pandoc -s --citeproc -t markdown-citations-fenced_divs-native_divs-raw_html --bibliography={{vault_path}}/notas/librero.bib -V lang=es -o ~/Documents/dev/sabhz-web/src/pages/{{file_name}} {{file_path:relative}}"
+      },
+      "shells": {},
+      "alias": "publish to blog",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "go7h3xk84r",
+      "platform_specific_commands": {
+        "default": "printf \"\\n- [ ] {{!_task}}\" >> org/tareas.md"
+      },
+      "shells": {},
+      "alias": "tarea rápida",
+      "icon": "archive",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": true,
+          "prompt_id": "b9lek5l35l"
+        }
+      ],
+      "variable_default_values": {}
+    },
+    {
+      "id": "q2t6wscr86",
+      "platform_specific_commands": {
+        "default": "cd notas && git add . && git commit -m {{_commit_message}} && git status"
+      },
+      "shells": {},
+      "alias": "Commit",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": true,
+          "prompt_id": "fwwm7jh2gk"
+        }
+      ],
+      "variable_default_values": {}
+    },
+    {
+      "id": "w7ag0lq8d6",
+      "platform_specific_commands": {
+        "default": "pandoc -s --citeproc --bibliography={{vault_path}}/notas/librero.bib -V lang=es -o {{title}}.docx {{file_path:relative}} --resource-path={{folder_path:relative}}"
+      },
+      "shells": {},
+      "alias": "Export file to docx",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "modal",
+        "stderr": "modal"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "2ndayg3jo5",
+      "platform_specific_commands": {
+        "default": "cd notas && git status"
+      },
+      "shells": {},
+      "alias": "Git Status",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {
+        "on-layout-ready": {
+          "enabled": true
+        }
+      },
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "a5e0e9mesf",
+      "platform_specific_commands": {
+        "default": "kitty nvim {{file_path:absolute}}"
+      },
+      "shells": {},
+      "alias": "Vim",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    }
+  ],
+  "prompts": [
+    {
+      "id": "fwwm7jh2gk",
+      "title": "Commit description",
+      "description": "Describe changes",
+      "preview_shell_command": true,
+      "fields": [
+        {
+          "label": "Commit message",
+          "description": "commit description",
+          "default_value": "actualización de contenido",
+          "target_variable_id": "il9yx8stmd",
+          "required": true
+        }
+      ],
+      "execute_button_text": "Commit"
+    },
+    {
+      "id": "b9lek5l35l",
+      "title": "tarea",
+      "description": "describe la tarea",
+      "preview_shell_command": true,
+      "fields": [
+        {
+          "label": "Tarea",
+          "description": "Descripción de la tarea",
+          "default_value": "(A) tarea",
+          "target_variable_id": "ohy4av7vwj",
+          "required": true
+        }
+      ],
+      "execute_button_text": "Añadir tarea"
+    }
+  ],
+  "custom_variables": [
+    {
+      "id": "il9yx8stmd",
+      "name": "commit_message",
+      "description": "commit description"
+    },
+    {
+      "id": "ohy4av7vwj",
+      "name": "task",
+      "description": "task description"
+    }
+  ],
+  "output_wrappers": []
+}

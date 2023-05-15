@@ -1,0 +1,8 @@
+{
+  "pathToPandoc": "/opt/homebrew/bin/pandoc",
+  "tooltipDelay": 800,
+  "pathToBibliography": "/Users/sabhz/Library/Mobile Documents/com~apple~CloudDocs/Documentos/archivo/notas/librero.bib",
+  "showCitekeyTooltips": true,
+  "cslStyle": "/Users/sabhz/Library/Mobile Documents/com~apple~CloudDocs/Documentos/archivo/notas/harvard-cite-them-right.csl",
+  "hideLinks": true
+}

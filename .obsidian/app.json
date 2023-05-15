@@ -1,0 +1,27 @@
+{
+  "mobileToolbarCommands": [
+    "editor:cycle-list-checklist",
+    "editor:swap-line-down",
+    "editor:swap-line-up",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-keyboard",
+    "audio-recorder:start",
+    "audio-recorder:stop",
+    "editor:insert-wikilink",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:undo",
+    "editor:redo"
+  ],
+  "showInlineTitle": false,
+  "vimMode": true,
+  "useTab": false,
+  "showLineNumber": true,
+  "livePreview": false,
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "spellcheck": true
+}

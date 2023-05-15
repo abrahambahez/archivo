@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "inbox/+karma log.md",
+      "ctime": 1683081518776
+    },
+    {
+      "type": "group",
+      "ctime": 1683433299275,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1683433268085,
+          "path": "src/+tesis/_c8 Vivienda.md",
+          "title": "Vivienda"
+        },
+        {
+          "type": "file",
+          "ctime": 1683993956375,
+          "path": "src/+tesis/tesis_sergio_barrera.md",
+          "title": "texto"
+        }
+      ],
+      "title": "Tesis"
+    }
+  ]
+}

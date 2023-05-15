@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "af59e42633834640",
+    "type": "split",
+    "children": [
+      {
+        "id": "a43533754d4c751a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b34380c03579e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas/el otro extranjero.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99020fa5a33aa0f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef2d0e4ae0f2272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c09d691bb0fade1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4483d66ae0589063",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "94c3cf2c980024fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2041d1f0dc20765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9182277273d602",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pandoc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ae7a49a860e8a96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notas/el otro extranjero.md"
+              }
+            }
+          },
+          {
+            "id": "c3a175ae45c17534",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notas/el otro extranjero.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9932650304550723,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "21cd27d48a309c0d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "450b0fe1fb179a9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notas/el otro extranjero.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fc495bc95314ffc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notas/el otro extranjero.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fff659d7bdb9ecc6",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 468.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "daily-notes:Abrir la nota de hoy": true,
+      "graph:Abrir vista de gráfico": true,
+      "switcher:Abrir quick switcher": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templates:Insertar plantilla": true,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "8b34380c03579e32",
+  "lastOpenFiles": [
+    "src/tesis/tesis_sergio_barrera.md",
+    "notas/memo pandoc.md",
+    "src/+tesis/tesis_sergio_barrera.md",
+    "src/+tesis/etnicidad_indignacion2014_tiempo_caracol.png",
+    "tesis_sergio_barrera.docx",
+    "src/+tesis/resc/Copia de Mi vida en Cholul.md",
+    "src/+tesis/media",
+    "§tesis_sergio_barrera.docx",
+    "tesis-log.txt",
+    "notas/autorialidad.md",
+    "notas/comunidades de práctica.md",
+    "notas/comunidad emocional.md",
+    "diario/2023-05-10.md",
+    "notas/epistemología del desacuerdo.md",
+    "notas/giro ontológico.md",
+    "diario/2023-03-10.md",
+    "src/+tesis/resc/SantaGertrudis_2022-06-30_LeydiCocom.mp3.txt.md",
+    "diario/2023-05-13.md",
+    "notas/hábitos compuestos.md",
+    "notas/emic-etic.md",
+    "TE V.S. 2020 Alberto Carlos Velazquez Solis.pdf.md",
+    "diario/2023-05-08.md",
+    "src/+tesis/resc/cambio de nombres.md",
+    "src/+tesis/resc/Cholul2022-02-25_doñaLula.txt.md",
+    "src/+tesis/resc/Cholul2022-03-02_doñaHiginiaPuc.txt.md",
+    "src/+tesis/resc/Cholul2022-02-18_doñaEva.txt.md",
+    "diario/Recording 20230510054721.m4a",
+    "diario/2023-05-09.md",
+    "notas/sistema sociotécnico.md",
+    "src/+blog/💡ideas.md",
+    "src/+tesis/resc/Copia de ciudad autosarcófaga.md",
+    "src/Copia de ciudad autosarcófaga.md",
+    "diario/Recording 20230508201237.m4a",
+    "diario/Recording 20230508201123.m4a",
+    "diario/Recording 20230513094305.m4a",
+    "diario/Recording 20230513094052.m4a",
+    "diario/Recording 20230513094145.m4a",
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0026.jpg",
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0076.jpg",
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0068.jpg",
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0064.jpg",
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0043.jpg",
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0030.jpg",
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0027.jpg",
+    "diario/antilibrero/castillo_cocom_quincunx/SOCI0017740-0300.jpg",
+    "diario/antilibrero/castillo_cocom_quincunx/SOCI0017740-0298.jpg"
+  ]
+}
