@@ -3,4 +3,5 @@ diario/
 notas/
 src/tesis
 src/librero
+src/astro-citeproc
 *.docx
