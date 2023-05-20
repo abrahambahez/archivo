@@ -5,3 +5,8 @@ src/tesis
 src/librero
 src/astro-citeproc
 *.docx
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.obsidian/plugins/smart-connections/
+.smart-connections
