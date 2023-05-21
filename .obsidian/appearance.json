@@ -1,12 +1,14 @@
 {
   "accentColor": "",
   "cssTheme": "",
-  "textFontFamily": "iA Writer Duospace",
+  "textFontFamily": "iA Writer Duo V",
   "baseFontSize": 18,
   "enabledCssSnippets": [
-    "header-graph"
+    "brutalism",
+    "nomenu"
   ],
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "Archivo SemiBold",
   "monospaceFontFamily": "Hack Nerd Font Mono",
-  "theme": "system"
+  "theme": "obsidian",
+  "nativeMenus": true
 }
