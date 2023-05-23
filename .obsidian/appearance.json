@@ -1,14 +1,14 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Brutalism",
   "textFontFamily": "iA Writer Duo V",
   "baseFontSize": 18,
   "enabledCssSnippets": [
-    "brutalism",
     "nomenu"
   ],
   "interfaceFontFamily": "Archivo SemiBold",
   "monospaceFontFamily": "Hack Nerd Font Mono",
   "theme": "obsidian",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "translucency": false
 }

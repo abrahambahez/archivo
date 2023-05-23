@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db092dfb86ba73fe",
+        "id": "252f82099ccda368",
         "type": "tabs",
         "children": [
           {
-            "id": "cda5809339b243da",
+            "id": "495c1575d667cab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "3dc65f73e9c99207",
+            "id": "c75b0aa9a732f907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notas/log ztk.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "277ab6a90f84b094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas/ensayo sobre escritura colaborativa en obsidian.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -96,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "94c3cf2c980024fe",
@@ -230,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5,
-    "collapsed": true
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,11 +232,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3dc65f73e9c99207",
+  "active": "c75b0aa9a732f907",
   "lastOpenFiles": [
     "notas/sistemas de notas.md",
-    "notas/ensayo sobre escritura colaborativa en obsidian.md",
+    "diario/2023-05-22.md",
+    "notas/@castaneda&al2004.md",
     "notas/log ztk.md",
+    "notas/ensayo sobre escritura colaborativa en obsidian.md",
     "notas/notas de registro en zettelkasten.md",
     "notas/literacidad.md",
     "notas/tipos de investigación cualitativa.md",
@@ -277,8 +266,6 @@
     "src/tesis/resc/SantaGertrudis2022-03-14ÁngelCocom.txt.md",
     "src/tesis/resc/SantaGertrudis_2022-06-30_LeydiCocom.mp3.txt.md",
     "src/tesis/resc/Cholul2022-03-02_doñaHiginiaPuc.txt.md",
-    "src/tesis/resc/SantaGertrudis2022-02-06_DonManuel.txt.md",
-    "src/tesis/resc/Cholul2022-02-25_doñaLula.txt.md",
     "src/tesis/resc",
     "src/tesis",
     "diario/Recording 20230513094305.m4a",
