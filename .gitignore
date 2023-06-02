@@ -4,9 +4,10 @@ notas/
 src/tesis
 src/librero
 src/astro-citeproc
+src/blog
 *.docx
 .obsidian/themes/*
-
+.obsidian/appearance.json
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
-.obsidian/plugins/smart-connections/
+.obsidian/plugins/*
 .smart-connections

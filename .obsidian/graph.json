@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:notas",
+  "search": "path:notas ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:notas",
+      "query": "file:/^§/",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431387
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 11.6008556912381,
   "linkStrength": 0.899411712273821,
   "linkDistance": 251,
-  "scale": 0.8388981142033664,
-  "close": true
+  "scale": 0.7947260525111118,
+  "close": false
 }

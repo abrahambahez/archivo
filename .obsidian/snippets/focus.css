@@ -1,0 +1,19 @@
+/* Remove Ribbon Sidebar */
+body {
+  --ribbon-width: 0px;
+  --ribbon-padding: 0px;
+}
+.workspace-ribbon {
+  border-right: none !important; 
+}
+
+/* Remove top icons */
+.sidebar-toggle-button {
+  display:none;
+}
+
+/* Remove status bar */
+
+.status-bar {
+  display: none;
+}

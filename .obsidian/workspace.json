@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "252f82099ccda368",
+        "id": "0aa10ce911ab318f",
         "type": "tabs",
         "children": [
           {
-            "id": "495c1575d667cab6",
+            "id": "a788f4a3b02fca13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/sistemas de notas.md",
+                "file": "notas/investigación post-cualitativa.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c75b0aa9a732f907",
+            "id": "adcff2b9393f43e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/log ztk.md",
+                "file": "notas/correspondencia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pandoc",
+                "query": "volición",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,50 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas/log ztk.md"
-              }
-            }
-          },
-          {
-            "id": "c3a175ae45c17534",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "notas/log ztk.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:notas",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4151399
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4803616263547493,
-                  "close": true
-                }
+                "file": "notas/investigación post-cualitativa.md"
               }
             }
           },
@@ -168,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas/log ztk.md",
+                "file": "notas/investigación post-cualitativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas/log ztk.md",
+                "file": "notas/investigación post-cualitativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,87 +154,119 @@
               "type": "ReferenceListView",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ccb9ba44345c5a1e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a0effa1be085807b",
+            "id": "699c5c66d02f87fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph-analysis",
               "state": {}
+            }
+          },
+          {
+            "id": "08c81206d1f9522e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notas/investigación post-cualitativa.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4043300040018285,
+                  "close": true
+                }
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Empezar/Parar de grabar": false,
-      "daily-notes:Abrir la nota de hoy": true,
-      "graph:Abrir vista de gráfico": true,
       "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templates:Insertar plantilla": true,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "workspaces:Manage workspace layouts": false,
+      "random-note:Abrir nota al azar": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c75b0aa9a732f907",
+  "active": "1c09d691bb0fade1",
   "lastOpenFiles": [
+    "notas/correspondencia.md",
+    "notas/investigación post-cualitativa.md",
+    "notas/partir de preguntas, forzar vínculos en sistemas de notas.md",
     "notas/sistemas de notas.md",
-    "diario/2023-05-22.md",
-    "notas/@castaneda&al2004.md",
+    "Untitled.md",
+    "notas/acumulación salvaje.md",
+    "notas/cultura.md",
+    "notas/análisis conceptual de la cultura.md",
+    "notas/constructo teórico.md",
+    "notas/deuda.md",
+    "notas/Obsidian Brutalism.md",
     "notas/log ztk.md",
-    "notas/ensayo sobre escritura colaborativa en obsidian.md",
-    "notas/notas de registro en zettelkasten.md",
-    "notas/literacidad.md",
-    "notas/tipos de investigación cualitativa.md",
-    "notas/estrategia de producto digital.md",
-    "notas/diseño.md",
-    "src/tesis/tesis_sergio_barrera.md",
-    "notas/método de acción (diseño).md",
-    "notas/alineación de inteligencia artificial.md",
-    "notas/especificación markdown para notas de campo.md",
-    "notas/prompt engineering.md",
-    "notas/promt.md",
-    "src/tesis/resc/Cholul2022-02-18_doñaEva.txt.md",
-    "src/tesis/resc/cambio de nombres.md",
+    "notas/log clase con Castillo Berthier.md",
+    "notas/ontología informal.md",
+    "notas/sistema.md",
+    "2023-05-31.md",
+    "2023-05-29.md",
+    "notas/movimiento maker.md",
+    "notas/comunidad de nodos.md",
+    "2023-05-28.md",
+    "notas/escuadrón.md",
+    "notas/comunidad de práctica.md",
+    "notas/arquitectura de software.md",
+    "notas/software.md",
+    "notas/cohesión de grupo.md",
+    "notas/sociosistema digital.md",
+    "src/prompts",
+    "pruebas de usabilidad.docx",
+    "src/librero/arostegui2004.pdf",
+    "src/librero/bartolome2014.pdf",
+    "src/librero/appadurai1991.pdf",
+    "src/librero/accolasEtAl2018.pdf",
+    "src/librero/acosta2013.pdf",
+    "src/librero/Buddelmeyer_Powdthavee_2016_Can having internal locus of control insure against negative shocks.pdf",
+    "src/librero/Giménez_2006_El debate contemporáneo en torno al concepto de etnicidad.pdf",
+    "src/librero/Buijze et al_2016_The Effect of Cold Showering on Health and Work.pdf",
+    "src/+maya/modulos-nivel-uno.png",
     "src/tesis/etnicidad_indignacion2014_tiempo_caracol.png",
-    "diario/2023-05-19.md",
-    "diario/2023-05-16.md",
-    "src/astro-citeproc/index.md",
-    "diario/2023-05-15.md",
-    "src/astro-citeproc",
-    "diario/2023.md",
-    "diario",
     "src/tesis/merida_inmobilia_norte_criminalidad.png",
     "src/tesis/merida_inmobilia_norte_centros_atraccion.png",
     "src/tesis/merida_anahuac_mayab_zona_norte.png",
-    "src/tesis/resc/SantaGertrudis2022-03-14ÁngelCocom.txt.md",
-    "src/tesis/resc/SantaGertrudis_2022-06-30_LeydiCocom.mp3.txt.md",
-    "src/tesis/resc/Cholul2022-03-02_doñaHiginiaPuc.txt.md",
-    "src/tesis/resc",
-    "src/tesis",
-    "diario/Recording 20230513094305.m4a",
-    "diario/Recording 20230510054721.m4a",
-    "diario/Recording 20230508201237.m4a",
     "src/+tesis/etnicidad_indignacion2014_tiempo_caracol.png",
-    "tesis_sergio_barrera.docx",
-    "src/+tesis/media",
-    "§tesis_sergio_barrera.docx",
     "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0026.jpg",
     "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0076.jpg",
     "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0068.jpg",
-    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0064.jpg",
-    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0043.jpg"
+    "diario/antilibrero/castaneda_no_somos_indigenas/SOCI0017740-0064.jpg"
   ]
 }

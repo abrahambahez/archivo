@@ -15,14 +15,16 @@
     "editor:undo",
     "editor:redo"
   ],
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "vimMode": true,
   "useTab": false,
   "showLineNumber": true,
   "livePreview": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "src",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "spellcheck": true,
-  "showFrontmatter": true
+  "showFrontmatter": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notas"
 }
