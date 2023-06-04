@@ -1,19 +1,29 @@
-/* Remove Ribbon Sidebar */
+/* Hide Ribbon Sidebar */
 body {
   --ribbon-width: 0px;
   --ribbon-padding: 0px;
 }
+
+
 .workspace-ribbon {
   border-right: none !important; 
 }
 
-/* Remove top icons */
+
+/* Hide top icons */
 .sidebar-toggle-button {
   display:none;
 }
 
-/* Remove status bar */
 
+/* Hide status bar */
 .status-bar {
   display: none;
 }
+
+
+/* Hide scrollbar */
+body:not(.native-scrollbars) ::-webkit-scrollbar {
+  width:0px;
+}
+

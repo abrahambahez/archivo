@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "94c3cf2c980024fe",
@@ -202,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,15 +213,33 @@
       "audio-recorder:Empezar/Parar de grabar": false,
       "workspaces:Manage workspace layouts": false,
       "random-note:Abrir nota al azar": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "1c09d691bb0fade1",
+  "active": "a788f4a3b02fca13",
   "lastOpenFiles": [
     "notas/correspondencia.md",
     "notas/investigación post-cualitativa.md",
+    "src/blog/hackear-la-vida.md",
+    "src/blog/la-investigación-social-no-se-beneficia-de-la-tecnología.md",
+    "src/blog/optimizar-el-tiempo.md",
+    "src/blog/Mentalidad de texto plano.md",
+    "src/blog/arquitecturas-sin-lugares.md",
+    "src/blog/💡ideas.md",
+    "src/blog/Una aldea poblada por inteligencias artificiales.md",
+    "src/blog/incomodidad-permanente.md",
+    "src/blog/internet-más-allá-de-las-redes-sociales.md",
+    "src/blog/Estrategia 2023.md",
+    "src/prompts",
+    "src/blog",
+    "src/librero/Buddelmeyer_Powdthavee_2016_Can having internal locus of control insure against negative shocks.pdf",
+    "src/librero/Giménez_2006_El debate contemporáneo en torno al concepto de etnicidad.pdf",
+    "src/librero/Buijze et al_2016_The Effect of Cold Showering on Health and Work.pdf",
+    "src/librero/Dapuez_2011_Promesas rituales y compromisos de libre mercado.pdf",
+    "src/librero/Pérez Ruiz_2017_Las muchachas mayas de Yaxcabá, Yucatán.pdf",
+    "src/librero/Mongin_2016_SPURIOUS UNANIMITY AND THE PARETO PRINCIPLE.pdf",
+    "src/librero/Vázquez_2013_Mercado de tierras y propiedad social.pdf",
+    "src/librero/Rebelión-y-resistencia-del-pueblo-maya-tsikbal.pdf",
     "notas/partir de preguntas, forzar vínculos en sistemas de notas.md",
     "notas/sistemas de notas.md",
     "Untitled.md",
@@ -238,26 +254,6 @@
     "notas/ontología informal.md",
     "notas/sistema.md",
     "2023-05-31.md",
-    "2023-05-29.md",
-    "notas/movimiento maker.md",
-    "notas/comunidad de nodos.md",
-    "2023-05-28.md",
-    "notas/escuadrón.md",
-    "notas/comunidad de práctica.md",
-    "notas/arquitectura de software.md",
-    "notas/software.md",
-    "notas/cohesión de grupo.md",
-    "notas/sociosistema digital.md",
-    "src/prompts",
-    "pruebas de usabilidad.docx",
-    "src/librero/arostegui2004.pdf",
-    "src/librero/bartolome2014.pdf",
-    "src/librero/appadurai1991.pdf",
-    "src/librero/accolasEtAl2018.pdf",
-    "src/librero/acosta2013.pdf",
-    "src/librero/Buddelmeyer_Powdthavee_2016_Can having internal locus of control insure against negative shocks.pdf",
-    "src/librero/Giménez_2006_El debate contemporáneo en torno al concepto de etnicidad.pdf",
-    "src/librero/Buijze et al_2016_The Effect of Cold Showering on Health and Work.pdf",
     "src/+maya/modulos-nivel-uno.png",
     "src/tesis/etnicidad_indignacion2014_tiempo_caracol.png",
     "src/tesis/merida_inmobilia_norte_criminalidad.png",
