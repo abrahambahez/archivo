@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa10ce911ab318f",
+        "id": "26da3d9543ac8b65",
         "type": "tabs",
         "children": [
           {
-            "id": "a788f4a3b02fca13",
+            "id": "b41eefa520bedf44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/investigación post-cualitativa.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "adcff2b9393f43e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas/correspondencia.md",
+                "file": "2023-06-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volición",
+                "query": "vibes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas/investigación post-cualitativa.md"
+                "file": "2023-06-12.md"
               }
             }
           },
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas/investigación post-cualitativa.md",
+                "file": "2023-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas/investigación post-cualitativa.md",
+                "file": "2023-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,20 +142,12 @@
             }
           },
           {
-            "id": "699c5c66d02f87fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
             "id": "08c81206d1f9522e",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "notas/investigación post-cualitativa.md",
+                "file": "2023-06-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,10 +180,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
       "daily-notes:Abrir la nota de hoy": false,
@@ -212,24 +194,37 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "workspaces:Manage workspace layouts": false,
-      "random-note:Abrir nota al azar": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "random-note:Abrir nota al azar": false
     }
   },
-  "active": "a788f4a3b02fca13",
+  "active": "b41eefa520bedf44",
   "lastOpenFiles": [
-    "notas/correspondencia.md",
+    "2023-06-12a.md",
+    "2023-06-12.md",
+    "notas/arquitectura de participación en código abierto.md",
+    "notas/código abierto.md",
+    "notas/don en el código abierto.md",
+    "notas/revisión por pares.md",
+    "notas/clausura comunitaria.md",
+    "notas/tácticas de hacer comunidad.md",
+    "notas/contribución temprana.md",
+    "notas/don.md",
+    "notas/contribución.md",
+    "notas/trabajo voluntario.md",
+    "notas/irreversibilidad de la tecnología.md",
+    "notas/momentum tecnológico.md",
+    "notas/kōan.md",
+    "readme.md",
+    "notas/anarquismo.md",
+    "notas/anarquismo negro.md",
+    "notas/anarquía e individualismo.md",
+    "notas/cosas interesantes.md",
+    "notas/bibliografía anarquismo.md",
+    "notas/antropología y anarquismo.md",
     "notas/investigación post-cualitativa.md",
+    "notas/correspondencia.md",
     "src/blog/hackear-la-vida.md",
     "src/blog/la-investigación-social-no-se-beneficia-de-la-tecnología.md",
-    "src/blog/optimizar-el-tiempo.md",
-    "src/blog/Mentalidad de texto plano.md",
-    "src/blog/arquitecturas-sin-lugares.md",
-    "src/blog/💡ideas.md",
-    "src/blog/Una aldea poblada por inteligencias artificiales.md",
-    "src/blog/incomodidad-permanente.md",
-    "src/blog/internet-más-allá-de-las-redes-sociales.md",
-    "src/blog/Estrategia 2023.md",
     "src/prompts",
     "src/blog",
     "src/librero/Buddelmeyer_Powdthavee_2016_Can having internal locus of control insure against negative shocks.pdf",
@@ -240,20 +235,6 @@
     "src/librero/Mongin_2016_SPURIOUS UNANIMITY AND THE PARETO PRINCIPLE.pdf",
     "src/librero/Vázquez_2013_Mercado de tierras y propiedad social.pdf",
     "src/librero/Rebelión-y-resistencia-del-pueblo-maya-tsikbal.pdf",
-    "notas/partir de preguntas, forzar vínculos en sistemas de notas.md",
-    "notas/sistemas de notas.md",
-    "Untitled.md",
-    "notas/acumulación salvaje.md",
-    "notas/cultura.md",
-    "notas/análisis conceptual de la cultura.md",
-    "notas/constructo teórico.md",
-    "notas/deuda.md",
-    "notas/Obsidian Brutalism.md",
-    "notas/log ztk.md",
-    "notas/log clase con Castillo Berthier.md",
-    "notas/ontología informal.md",
-    "notas/sistema.md",
-    "2023-05-31.md",
     "src/+maya/modulos-nivel-uno.png",
     "src/tesis/etnicidad_indignacion2014_tiempo_caracol.png",
     "src/tesis/merida_inmobilia_norte_criminalidad.png",

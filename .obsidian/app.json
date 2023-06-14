@@ -18,7 +18,7 @@
   "showInlineTitle": true,
   "vimMode": true,
   "useTab": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "livePreview": false,
   "attachmentFolderPath": "src",
   "alwaysUpdateLinks": true,
