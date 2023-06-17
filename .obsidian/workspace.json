@@ -16,7 +16,7 @@
                 "file": "2023-06-12.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -199,20 +199,19 @@
   },
   "active": "b41eefa520bedf44",
   "lastOpenFiles": [
-    "2023-06-12a.md",
-    "2023-06-12.md",
     "notas/arquitectura de participación en código abierto.md",
+    "2023-06-12.md",
+    "notas/contribución temprana.md",
+    "notas/momentum tecnológico.md",
     "notas/código abierto.md",
     "notas/don en el código abierto.md",
     "notas/revisión por pares.md",
     "notas/clausura comunitaria.md",
     "notas/tácticas de hacer comunidad.md",
-    "notas/contribución temprana.md",
     "notas/don.md",
     "notas/contribución.md",
     "notas/trabajo voluntario.md",
     "notas/irreversibilidad de la tecnología.md",
-    "notas/momentum tecnológico.md",
     "notas/kōan.md",
     "readme.md",
     "notas/anarquismo.md",

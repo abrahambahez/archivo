@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Brutalism",
+  "theme": "obsidian",
+  "accentColor": "",
+  "interfaceFontFamily": "Archivo SemiBold",
+  "textFontFamily": "iA Writer Duo V",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "brutalism-focus-snippet"
+  ],
+  "nativeMenus": true,
+  "showViewHeader": false
+}

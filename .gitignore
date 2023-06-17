@@ -6,9 +6,8 @@ src/librero
 src/astro-citeproc
 src/blog
 *.docx
-.obsidian/themes/*
-.obsidian/appearance.json
-.obsidian/snippets/brutalism-focus-snippet.css
-# Ignore Smart Connections folder because embeddings file is large and updated frequently
-.obsidian/plugins/*
+.obsidian/*
+!.obsidian/hotkeys.json
+!.obsidian/appearance.json
+!.obsidian/snippets/
 .smart-connections
